@@ -1,6 +1,7 @@
 name: android build scripts
 
 on:
+
   push:
     branches:
       - development
