@@ -1,7 +1,6 @@
 name: android build scripts
 
 on:
-workflow_dispatch:
   push:
     branches:
       - development
